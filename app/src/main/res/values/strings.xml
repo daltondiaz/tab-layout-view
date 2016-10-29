@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabLayoutViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_first_fragment">This is the first Fragment from First Tab</string>
+    <string name="text_second_fragment">This is the second Fragment from Second Tab</string>
+    <string-array name="titles_tab">
+        <item>First Tab</item>
+        <item>Second Tab</item>
+    </string-array>
+</resources>
